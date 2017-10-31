@@ -15,6 +15,7 @@
     "change-emitter": "^0.1.2",
     "fbjs": "^0.8.16",
     "hoist-non-react-statics": "^2.3.1",
+    "shelljs": "^0.7.8",
     "symbol-observable": "^1.0.4"
   },
   "peerDependencies": {
